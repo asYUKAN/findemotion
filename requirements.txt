@@ -218,6 +218,7 @@ typing_extensions==4.2.0
 tzdata==2022.1
 tzlocal==4.2
 ubuntu-advantage-tools==27.8
+ubuntu-drivers-common==0.0.0
 ufw==0.36
 unattended-upgrades==0.1
 urllib3==1.25.8
