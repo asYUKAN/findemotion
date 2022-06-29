@@ -1,6 +1,6 @@
 tensorflow-cpu==2.6.0
 h5py
-absl-py==1.1.0
+absl-py
 altair==4.2.0
 appdirs==1.4.4
 argon2-cffi==21.3.0
